@@ -1,0 +1,1 @@
+Scrapes images from simpledesktops.com and throws authors, names, sha1 hashes and some other stuff into a database.
